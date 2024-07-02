@@ -87,4 +87,5 @@ def run():
             func_dict[user_choice]()
 
 
-run()
+if __name__ == '__main__':
+    run()
